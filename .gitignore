@@ -1,0 +1,4 @@
+# Remove output folder from repository
+output/*
+*.csv
+*.gif
